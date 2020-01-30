@@ -1,0 +1,16 @@
+.studio{
+    height: 50vh;
+    width: 100%;
+}
+.row{
+    height: 50vh;
+}
+.main{
+    background-image: url("../resources/studio.jpg");
+}
+.container{
+    text-align: center;
+}
+.comp, .cart, .pad{
+    width: 100px;
+}
